@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 24 Jun 2024 19:48:18 GMT
+ * Generated on Tue, 25 Jun 2024 18:34:45 GMT
  */
 
 
@@ -43,22 +43,6 @@
   --alma-text-decoration-none: none;
   --alma-text-decoration-underline: underline;
   --alma-paragraph-indent-none: 0px;
-  --heading-2-xl: 600 2.429rem/2.92rem Inter;
-  --heading-xl: 600 2rem/2.43rem Inter;
-  --heading-lg: 600 1.571rem/1.93rem Inter;
-  --heading-md: 600 1.286rem/1.57rem Inter;
-  --heading-sm: 600 1.143rem/1.5rem Inter;
-  --text-lg-regular: 400 1.143rem/1.5rem Inter;
-  --text-lg-medium: 500 1.143rem/1.5rem Inter;
-  --text-lg-bold: 600 1.143rem/1.5rem Inter;
-  --text-md-regular: 400 1rem/1.14rem Inter;
-  --text-md-medium: 500 1rem/1.15rem Inter;
-  --text-md-bold: 600 1rem/1.15rem Inter;
-  --text-sm: 400 0.929rem/1.15rem Inter;
-  --paragraph-md: 400 1rem/1.5rem Inter;
-  --all-caps-lg: 600 0.929rem/1.15rem Inter;
-  --all-caps-md: 600 0.857rem/1.08rem Inter;
-  --all-caps-sm: 600 0.786rem/0.93rem Inter;
   --alma-color-essential-neutral-darker: #09090a;
   --alma-color-essential-neutral-dark: #3e4145;
   --alma-color-essential-neutral-default: #585d63;
@@ -131,16 +115,9 @@
   --alma-color-transparency-light-projected-shadow: rgba(157, 163, 168, 0.05);
   --alma-color-transparency-dark-projected-shadow: rgba(9, 9, 10, 0.05);
   --alma-color-opacity-neutral-white-slightly: rgba(255,255,255,0.15);
-  --alma-shadow-drop-shadow: 0 1px 4px 0;
-  --alma-shadow-projected-shadow-1: 0 1px 1px 0;
-  --alma-shadow-projected-shadow-2: 0 2px 2px 0;
-  --alma-shadow-projected-shadow-4: 0 4px 4px 0;
-  --alma-shadow-projected-shadow-8: 0 8px 8px 0;
-  --alma-shadow-projected-shadow-16: 0 16px 16px 0;
-  --alma-shadow-projected-shadow-32: 0 32px 32px 0;
-  --alma-shadow-solid-sm: 0 0 0 1px;
-  --alma-shadow-solid-md: 0 0 0 2px;
-  --alma-shadow-solid-lg: 0 0 0 3px;
+  --alma-shadow-drop-shadow: 0 1px 4px 0 #09090a1a;
+  --alma-shadow-light-projected-shadow: 0 1px 1px 0 #9da3a80d, 0 2px 2px 0 #9da3a80d, 0 4px 4px 0 #9da3a80d, 0 8px 8px 0 #9da3a80d, 0 16px 16px 0 #9da3a80d, 0 32px 32px 0 #9da3a80d;
+  --alma-shadow-dark-projected-shadow: 0 1px 1px 0 #09090a0d, 0 2px 2px 0 #09090a0d, 0 4px 4px 0 #09090a0d, 0 8px 8px 0 #09090a0d, 0 16px 16px 0 #09090a0d, 0 32px 32px 0 #09090a0d;
   --alma-border-radius-none: 0;
   --alma-border-radius-xs: 1px;
   --alma-border-radius-sm: 2px;
@@ -148,9 +125,6 @@
   --alma-border-radius-lg: 8px;
   --alma-border-radius-xl: 16px;
   --alma-border-radius-full: 9999px;
-  --alma-border-style-inset: inset;
-  --alma-border-style-outset: outset;
-  --alma-border-style-solid: solid;
   --alma-border-width-xs: 1px;
   --alma-border-width-sm: 2px;
   --alma-border-width-md: 3px;
@@ -181,7 +155,6 @@
   --alma-spacing-4-xl: 64px;
   --alma-spacing-5-xl: 72px;
   --alma-spacing-6-xl: 80px;
-  --alma-spacing-7-xl: 88px;
   --alma-opacity-quarter: 0.25;
   --alma-opacity-half: 0.5;
   --alma-opacity-three-quarters: 0.75;
